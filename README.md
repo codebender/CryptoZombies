@@ -1,2 +1,2 @@
 # CryptoZombies
-Learning Solidarity from https://cryptozombies.io
+Learning Solidity from https://cryptozombies.io
